@@ -1,21 +1,21 @@
 {
   "meta": {
-    "username": "hubpress",
+    "username": "jerome-d-russ",
     "repositoryName": "blog.hubpress.io",
     "branch": "gh-pages",
     "cname": "blog.hubpress.io",
     "delay": "500"
   },
   "site": {
-    "title": "HubPress",
+    "title": "Jerome Russ",
     "logo": "http://hubpress.io/img/logo.png",
     "postsPerPage": "10",
     "googleAnalytics": "UA-59472195-1",
     "disqus": "hubpress"
   },
   "socialnetwork": {
-    "twitter": "https://twitter.com/hubpressio",
-    "github": "https://github.com/hubpress"
+    "twitter": "https://twitter.com/russjdr",
+    "github": "https://github.com/jerome-d-russ"
   },
   "theme": {
     "name": "roon"
