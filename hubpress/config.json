@@ -1,9 +1,8 @@
 {
   "meta": {
     "username": "jerome-d-russ",
-    "repositoryName": "blog.hubpress.io",
+    "repositoryName": "jerome-d-russ.hubpress.io",
     "branch": "gh-pages",
-    "cname": "blog.hubpress.io",
     "delay": "500"
   },
   "site": {
